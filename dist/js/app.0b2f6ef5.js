@@ -855,7 +855,7 @@
                         component: ft
                     }],
                     _o = (0, rt.p7)({
-                        history: (0, rt.PO)("/Shopping-Website/"),
+                        history: (0, rt.PO)("./"),
                         routes: vo
                     });
                 var jo = _o;
@@ -1531,7 +1531,7 @@
             }
         }(),
         function() {
-            o.p = "/Shopping-Website/"
+            o.p = "./"
         }(),
         function() {
             var t = {

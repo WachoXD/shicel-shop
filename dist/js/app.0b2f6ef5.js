@@ -768,7 +768,7 @@
                     uo = [po];
 
                 function go(t, e, o, i, s, n) {
-                    return s.product ? ((0, a.wg)(), (0, a.iD)("div", to, [eo, (0, a._)("image", {
+                    return s.product ? ((0, a.wg)(), (0, a.iD)("div", to, [eo, (0, a._)("img", {
                         class: "back-image",
                         src: s.product.src
                     }, null, 8, oo), (0, a._)("div", ro, [(0, a._)("div", ao, [(0, a._)("p", co, (0, c.zw)(s.product.brand), 1), (0, a._)("h1", io, (0, c.zw)(s.product.title), 1), (0, a._)("p", so, "$" + (0, c.zw)(s.product.price), 1), (0, a._)("p", no, (0, c.zw)(s.product.description), 1), (0, a._)("form", lo, [(0, a.wy)((0, a._)("select", {

@@ -1,4 +1,4 @@
-@import url(./fonts/ValverdeCondensedSemibold.woff);
+
 .notification-counter[data-v-b8572bce]{
     position:absolute;
     top:-2px;
@@ -395,6 +395,10 @@
     cursor:pointer;
     border-radius:.4em
 }
+@font-face {
+    font-family: Valverde;
+    src: url(./fonts/ValverdeCondensedSemibold.woff);
+}
 @font-face{
     font-family:ITC Cheltenham Std;
     src:url(./fonts/CheltenhamStd.f39a6ebc.otf)
@@ -405,7 +409,7 @@
 }
 @font-face{
     font-family:Magisho;
-    src:url(./fonts/Magisho.b20178da.otf)
+    src:url(./fonts/Magisho.otf)
 }
 @font-face{
     font-family:Hjet;
